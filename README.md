@@ -1,5 +1,10 @@
 # blog
 
+## version
+
+vue 2.6.11
+node.js 12.18.4
+
 ## Project setup
 ```
 npm install
